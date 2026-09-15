@@ -8,7 +8,7 @@ scheduled appointments using real-world data containing over 110,000 records.
 ## Tools Used
 - **Python (Google Colab)** — Data cleaning and preparation
 - **SQL (SQLite)** — Data analysis and querying
-- **Power BI** — Data visualization and dashboard *(coming soon)*
+- **Power BI** — Data visualization and dashboard 
 
 ## Dataset
 - **Source:** Kaggle — Medical Appointment No-Shows
