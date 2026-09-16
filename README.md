@@ -58,6 +58,23 @@ Diabetes, Alcoholism, SMS Received, No-Show
 - More than 30 days wait: 33.02% no-show rate
 - The longer the wait, the higher the chance of a no-show
 
+## Power BI Dashboard — Key Visuals
+
+### 1. Overall No-Show Rate (Card)
+- Displays the overall no-show rate of 28.52% as a single headline number
+
+### 2. No-Show Rate by Age Group (Bar Chart)
+- Young Adults (18-35) have the highest no-show rate at 34.36%
+- Seniors (60+) are the most reliable group at 20.46%
+
+### 3. No-Show Rate by Waiting Period (Line Chart)
+- Clear upward trend — the longer the wait, the higher the no-show rate
+- Same day appointments: 21.35% vs More than 30 days: 33.02%
+
+### 4. Top 10 Neighbourhoods by No-Show Rate (Bar Chart)
+- Gurigica has the highest no-show rate at 38.37%
+- Helps identify areas where hospitals should focus outreach efforts
+
 ## Key Recommendations
 1. Send stronger reminders to patients waiting more than 30 days
 2. Focus outreach efforts on young adults aged 18-35
@@ -67,4 +84,4 @@ Diabetes, Alcoholism, SMS Received, No-Show
 ## Project Status
 - [x] Data Cleaning — Python
 - [x] Data Analysis — SQL
-- [ ] Dashboard — Power BI (coming soon)
+- [x] Dashboard — Power BI 
