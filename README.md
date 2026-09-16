@@ -71,7 +71,7 @@ Diabetes, Alcoholism, SMS Received, No-Show
 - Clear upward trend — the longer the wait, the higher the no-show rate
 - Same day appointments: 21.35% vs More than 30 days: 33.02%
 
-### 4. Top 10 Neighbourhoods by No-Show Rate (Bar Chart)
+### 4. Top 9 Neighbourhoods by No-Show Rate (Bar Chart)
 - Gurigica has the highest no-show rate at 38.37%
 - Helps identify areas where hospitals should focus outreach efforts
 
